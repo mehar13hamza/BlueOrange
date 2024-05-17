@@ -1,0 +1,23 @@
+# Ignore .env files
+.env
+
+# Ignore virtual environment directories
+.venv/
+venv/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore macOS Finder metadata
+.DS_Store
+
+# Ignore coverage files
+.coverage
+
+# Ignore editor directories
+.idea/
+.vscode/
+
+# Ignore DB files
+db.sqlite3
